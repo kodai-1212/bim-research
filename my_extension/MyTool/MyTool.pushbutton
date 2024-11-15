@@ -1,0 +1,6 @@
+{
+    "title": "My Tool",
+    "tooltip": "This is my first pyRevit tool",
+    "script": "script.py",
+    "panel": "MyPanel"
+}
